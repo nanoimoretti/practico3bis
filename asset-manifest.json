@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/practico3bis/static/css/main.073c9b0a.css",
+    "main.js": "/practico3bis/static/js/main.05b41aac.js",
+    "static/js/787.5e62fdf2.chunk.js": "/practico3bis/static/js/787.5e62fdf2.chunk.js",
+    "static/media/logo.svg": "/practico3bis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practico3bis/index.html",
+    "main.073c9b0a.css.map": "/practico3bis/static/css/main.073c9b0a.css.map",
+    "main.05b41aac.js.map": "/practico3bis/static/js/main.05b41aac.js.map",
+    "787.5e62fdf2.chunk.js.map": "/practico3bis/static/js/787.5e62fdf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.05b41aac.js"
+  ]
+}
